@@ -1,5 +1,6 @@
 Yii 2 Basic Project Template
 ============================
+李智超到此一游哈哈哈
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
